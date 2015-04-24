@@ -1,9 +1,11 @@
-# [Libre Space Foundation](http://librespacefoundation.org/)
+# librespacefoundation.org
 
-This is a static website for the non-profit Libre Space Foundation.
+This is a static website for the non-profit [Libre Space Foundation](http://librespacefoundation.org/).
 
-## Copyright and License
-Copyright 2015 Libre Space Foundation AMKE. All code is released under the Apache 2.0 license.
+## License
 
-### License for theme
-Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+&copy; 2014-2015 [Libre Space Foundation](http://librespacefoundation.org).
+
+Licensed under the [AGPLv3](LICENSE).
+
+Theme is released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license, Copyright 2014 Iron Summit Media Strategies, LLC.
